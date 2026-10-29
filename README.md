@@ -67,7 +67,7 @@ apotek-fefo/
      
 3. Akses Aplikasi
    * Buka browser dan kunjungi:
-     http://localhost/apotek-fefo/Tampilan_HTML_dan_Proses_PHP/login.php
+     http://localhost/Tugas2_Muhammad-Rifky-Sandi-Yudha_10124027_IF-1-main/apotek-fefo/Tampilan_HTML_dan_Proses_PHP/login.php
   
 4. Kredensial Login Default
    * Username: admin
