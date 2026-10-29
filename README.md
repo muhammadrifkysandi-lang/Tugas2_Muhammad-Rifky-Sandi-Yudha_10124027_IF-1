@@ -38,6 +38,7 @@ Tugas 2 - Membuat Sistem Informasi Manajemen Data Sederhana_Apotek (FEFO)
 
 ## 📂 Struktur Berkas Proyek
 
+```text
 apotek-fefo/
 ├── Database/
 │   └── db_apotek.sql                   # File ekspor database MySQL
